@@ -1,0 +1,1 @@
+web: java -Dserver.po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rt=$PORT -jar  target/dicdatapi-0.0.1-SNAPSHOT.jar
